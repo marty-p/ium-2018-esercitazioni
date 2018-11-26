@@ -11,3 +11,6 @@ L'applicazione deve permettere
 1. la dimensione del singolo file multimediale non deve superare i 10MB.
 1. una volta premuto il bottone "invia segnalazione" non deve richiedere più di 1 minuto per rispondere, altrimenti il processo deve terminare.
 1. l'applicazione non può supportare più di 5 file multimediali a segnalazione.
+1. l'applicazione deve mostrare un messaggio di errore in caso di login autenticazione fallita o problemi durante l'inserimento della segnalazione.
+1. l'applicazione deve mostrare un messaggio di conferma in caso di autenticazione riuscita e quando la segnalazione è stata inserita correttamente.
+1. il titolo della segnalazione non deve contenere più di 50 caratteri.
