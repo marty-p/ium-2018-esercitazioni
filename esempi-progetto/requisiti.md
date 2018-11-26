@@ -9,3 +9,5 @@ L'applicazione deve permettere
 
 ### Requisiti non funzionali
 1. la dimensione del singolo file multimediale non deve superare i 10MB.
+1. una volta premuto il bottone "invia segnalazione" non deve richiedere più di 1 minuto per rispondere, altrimenti il processo deve terminare.
+1. l'applicazione non può supportare più di 5 file multimediali a segnalazione.
