@@ -21,5 +21,5 @@ L'applicazione deve permettere
 1. l'applicazione può essere utilizzata in mobilità.
 
 ### Dati
-Le foto devono essere in formato .jpg o .png.
-I video devono essere in formato .mp4, .mkv.
+1. Le foto devono essere in formato .jpg o .png.
+1. I video devono essere in formato .mp4, .mkv.
