@@ -15,3 +15,6 @@ L'applicazione deve permettere
 1. l'applicazione deve mostrare un messaggio di errore in caso di login autenticazione fallita o problemi durante l'inserimento della segnalazione.
 1. l'applicazione deve mostrare un messaggio di conferma in caso di autenticazione riuscita e quando la segnalazione è stata inserita correttamente.
 1. il titolo della segnalazione non deve contenere più di 50 caratteri.
+
+### Ambiente o contesto d'uso
+La stessa segnalazione non può essere inserita da più utenti. (bisogna bloccarle, raggrupparle o permettere un sistema di feedback con i like/dislike)
