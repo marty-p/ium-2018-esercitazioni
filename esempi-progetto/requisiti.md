@@ -6,3 +6,6 @@ L'applicazione deve permettere
 1. poter inserire (o correggere) manualmente la posizione.
 1. all'utente di registrarsi
 1. di visualizzare le segnalazioni di altri utenti
+
+### Requisiti non funzionali
+1. la dimensione del singolo file multimediale non deve superare i 10MB.
