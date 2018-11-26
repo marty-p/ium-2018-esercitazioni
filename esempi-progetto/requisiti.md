@@ -23,4 +23,3 @@ L'applicazione deve permettere
 ### Dati
 Le foto devono essere in formato .jpg o .png.
 I video devono essere in formato .mp4, .mkv.
-
