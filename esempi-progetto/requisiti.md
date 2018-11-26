@@ -17,4 +17,10 @@ L'applicazione deve permettere
 1. il titolo della segnalazione non deve contenere più di 50 caratteri.
 
 ### Ambiente o contesto d'uso
-La stessa segnalazione non può essere inserita da più utenti. (bisogna bloccarle, raggrupparle o permettere un sistema di feedback con i like/dislike o upvote/downvote)
+1. la stessa segnalazione non può essere inserita da più utenti. (bisogna bloccarle, raggrupparle o permettere un sistema di feedback con i like/dislike o upvote/downvote)
+1. l'applicazione può essere utilizzata in mobilità.
+
+### Dati
+Le foto devono essere in formato .jpg o .png.
+I video devono essere in formato .mp4, .mkv.
+
