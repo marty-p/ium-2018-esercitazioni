@@ -17,4 +17,4 @@ L'applicazione deve permettere
 1. il titolo della segnalazione non deve contenere più di 50 caratteri.
 
 ### Ambiente o contesto d'uso
-La stessa segnalazione non può essere inserita da più utenti. (bisogna bloccarle, raggrupparle o permettere un sistema di feedback con i like/dislike)
+La stessa segnalazione non può essere inserita da più utenti. (bisogna bloccarle, raggrupparle o permettere un sistema di feedback con i like/dislike o upvote/downvote)
