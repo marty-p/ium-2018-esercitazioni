@@ -27,3 +27,10 @@ Pbetter = 1 - Pdis = 1 - 0.0703
         ?= 0.93 (comparandolo con pdis <? 0.5; comparandolo a pbetter <? 0.95)
 sebbene simile a 0.95 (o 0.5?), in statistica non si avvicina al design, ma in informatica la differenza non è significativa ma lo è
 
+# passo extra p.int
+                        facebook ok             facebook non ok     totale
+circlebook ok           7.5 (a.adj)             6.5 (b.adj)         14 (m.adj)
+circlebook non ok       1.5 (c.adj)             1.5 (d.adj)         3 (n.adj)
+          totale        9                       8                   17 (M.adj)
+Pm = madj / nadj = 14/17 ?= 0.825
+
