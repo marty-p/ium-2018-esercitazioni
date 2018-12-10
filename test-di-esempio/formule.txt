@@ -9,7 +9,7 @@ differenza dei due design per utente	=ba-c4
 
 D	=media(c2:c27)	#d29	-78
 sD	=STDEV(c2:c27)	#d30	61
-n	=count(d2:d27)	#d31	21
+n	==CONTA.VALORI(D2:D27)	#d31	21
 t	=d29/d30/sqrt(d31)	#d32	-5.72
 p-value	TDIST(ABS(d32)), D31-1, 2)	#d33	0.000013360
 1-p	=1-d33	#d34
