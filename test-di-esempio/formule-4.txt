@@ -1,7 +1,14 @@
-					facebook ok		facebook non ok
-circlebook ok		1,1 (a)			1,0 (b)
+			facebook ok		facebook non ok
+circlebook ok		7 1,1 (a)		6 1,0 (b)
 circlebook non ok	0,1 (c)			0,0 (d)
 
 p(x) = ((c+b)! / x! (c+b-x)!) p^x (1-p)^(c+b-x)
 
 b = 6, c=1, il minimo è c
+p(0) = ((1+6)! / 0! (1+6-0)!) 0.5^0 (1-0.5)^(1+6-0)
+     = 7! / 0!
+     = 1 * 1 * 0.5^7
+     = 0.5^7
+     ?= 0.0078 = p(0)
+     
+p(1) =
