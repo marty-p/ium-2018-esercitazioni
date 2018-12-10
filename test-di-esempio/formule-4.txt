@@ -32,5 +32,8 @@ sebbene simile a 0.95 (o 0.5?), in statistica non si avvicina al design, ma in i
 circlebook ok           7.5 (a.adj)             6.5 (b.adj)         14 (m.adj)
 circlebook non ok       1.5 (c.adj)             1.5 (d.adj)         3 (n.adj)
           totale        9                       8                   17 (M.adj)
-Pm = madj / nadj = 14/17 ?= 0.825
 
+Pm = madj / nadj = 14 / 17 ?= 0.825
+Pr = radj / nadj = 9 / 17 = 0.529
+pb = badj / nadj = 6.7 / 17 = 0.383
+pc = cadj / nadj = 1.5 / 17 = 0.087
