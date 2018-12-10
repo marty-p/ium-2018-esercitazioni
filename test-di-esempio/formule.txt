@@ -14,10 +14,10 @@ t	=d29/d30/sqrt(d31)	#d32	-5.72
 p-value	TDIST(ABS(d32)), D31-1, 2)	#d33	0.000013360
 1-p	=1-d33	#d34
 
-ta	=TINV(0.05,d31-1)	#d35	2.8
-taSdN	=d36*(d30/sqrt(d31))	#d36
+ta	=TINV(0.05,d31-1)	#d36	2.08
+taSdN	=d36*(d30/sqrt(d31))	#d37	27.90
 
-c.i.	=d29+	#d38
+c.i.	=d36+d31	=d29-d37	#d39	-49.6 -104
 
 tasd	valore critico della distribuzione t
 ci confidence interval
