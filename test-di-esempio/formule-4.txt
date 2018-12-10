@@ -37,3 +37,7 @@ Pm = madj / nadj = 14 / 17 ?= 0.825
 Pr = radj / nadj = 9 / 17 = 0.529
 pb = badj / nadj = 6.7 / 17 = 0.383
 pc = cadj / nadj = 1.5 / 17 = 0.087
+
+z = 1.96
+res = (pr - pm) +- z \sqrt{((pb+pc) - (pc - pb) ^ 2) / nadj}
+  
