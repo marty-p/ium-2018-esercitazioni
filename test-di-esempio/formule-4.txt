@@ -25,4 +25,4 @@ Pdis = p(min) + 2 \sum{vmin-1; x=0} p(x)
 
 Pbetter = 1 - Pdis = 1 - 0.0703
         ?= 0.93
-
+sebbene simile a 0.5, in statistica non si avvicina al design, ma in informatica la differenza non è significativa ma lo è
