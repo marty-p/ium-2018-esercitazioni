@@ -4,4 +4,5 @@ Max	=MAX(B2:B27)	=MAX(C2:C27)
 Media	=AVERAGE(B2:B27)	=AVERAGE(C2:C27)
 Dev. standard	STDEV(B2:B27)	STDEV(C2:C27)
 
+AVERAGE=MEDIA
 differenza dei due design per utente	=ba-c4
