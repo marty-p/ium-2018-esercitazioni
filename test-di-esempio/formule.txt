@@ -23,3 +23,5 @@ tasd	valore critico della distribuzione t
 ci confidence interval
 p-value basso, quindi la differenza è significativa
 
+INFO: TDIST su openoffice, invece di 2 finale, mettere 0
+
