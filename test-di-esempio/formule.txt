@@ -7,14 +7,14 @@ Dev. standard	STDEV(B2:B27)	STDEV(C2:C27)
 AVERAGE=MEDIA
 differenza dei due design per utente	=ba-c4
 
-D	=media(c2:c27)	#d29	-78
-sD	=STDEV(c2:c27)	#d30	61
-n	==CONTA.VALORI(D2:D27)	#d31	21
-t	=d29/d30/sqrt(d31)	#d32	-5.72
+D	=MEDIA(c2:c27)	#d29	-76
+sD	=DEV.ST(c2:c27)	#d30	61
+n	=CONTA.VALORI(D2:D27)	#d31	21
+t	=d29/d30/radq(d31)	#d32	-5.72
 p-value	TDIST(ABS(d32)), D31-1, 2)	#d33	0.000013360
 1-p	=1-d33	#d34
 
-ta	=TINV(0.05,d31-1)	#d36	2.08
+ta	=T.inv.2t(0.05,d31-1)	#d36	2.08
 taSdN	=d36*(d30/sqrt(d31))	#d37	27.90
 
 c.i.	=d36+d31	=d29-d37	#d39	-49.6 -104
@@ -24,4 +24,9 @@ ci confidence interval
 p-value basso, quindi la differenza è significativa
 
 INFO: TDIST su openoffice, invece di 2 finale, mettere 0
+stdev = DEV.ST
+count.value = CONTA.VALORI
+average = MEDIA
+sqrt = RADQ
+tinv = t.inv.2t
 
