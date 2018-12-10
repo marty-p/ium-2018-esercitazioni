@@ -1,6 +1,6 @@
-			facebook ok		facebook non ok
-circlebook ok		7 1,1 (a)		6 1,0 (b)
-circlebook non ok	0,1 (c)			0,0 (d)
+                        facebook ok             facebook non ok
+circlebook ok           7 1,1 (a)               6 1,0 (b)
+circlebook non ok       0,1 (c)                 0,0 (d)
 
 p(x) = ((c+b)! / x! (c+b-x)!) p^x (1-p)^(c+b-x)
 
@@ -11,4 +11,6 @@ p(0) = ((1+6)! / 0! (1+6-0)!) 0.5^0 (1-0.5)^(1+6-0)
      = 0.5^7
      ?= 0.0078 = p(0)
      
-p(1) =
+p(1) = ((1+6)! / (1! (1+6-1)) 0.5^1 (1-0.5)^(1+6-1)
+     =
+     
