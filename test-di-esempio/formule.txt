@@ -6,3 +6,8 @@ Dev. standard	STDEV(B2:B27)	STDEV(C2:C27)
 
 AVERAGE=MEDIA
 differenza dei due design per utente	=ba-c4
+
+D	=media(c2:c27)
+sD	=STDEV(c2:c27)
+n	=count(d2:d27)
+t	=d29/d30/sqrt(d31)
