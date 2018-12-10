@@ -1,4 +1,5 @@
-es1 - dati numerici - within subjects
+es1 - dati numerici - within subjects (scartare gli utenti che non hanno completato)
 Min =MIN(B2:B27) =MIN(C2:C27)
 Max =MAX(B2:B27) =MAX(C2:C27)
 Media =AVERAGE(B2:B27) =AVERAGE(C2:C27)
+Dev. standard
