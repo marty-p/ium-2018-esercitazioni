@@ -1,1 +1,3 @@
-
+					facebook ok		facebook non ok
+circlebook ok		1,1 (a)			1,0 (b)
+circlebook non ok	0,1 (c)			0,0 (d)
