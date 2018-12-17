@@ -16,7 +16,7 @@ Si supponga di dover valutare un sistema di risposta vocale interattiva (IVR), c
     
     Ci sono 4 risposte possibili. Altrimenti si da un questionario di tipo SuS
 
-4.
+4. Se la differenza è minima, è un successo. Criterio di successo la % delle persone che sono riuscite a completare il task.
 
 # Risposta 1 (personale)
 L'obbiettivo è quello di ottenere feedback sui servizi attivati e attivabili e sui relativi costi.
