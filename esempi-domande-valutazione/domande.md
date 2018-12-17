@@ -11,3 +11,5 @@ Si supponga di essere il gestore del sito web della Galleria degli Uffizi e di v
 # Ci devono essere per ogni risposta
 1. L'individualizzazione della categoria degli utenti
 2. Quali test, compiti sono richiesti, perché, motivandoli
+3. Le metriche da considerare con la loro rilevanza
+4. Come condurre l'analisi dei dati con criteri di successo (se p < 0.05 allora "ho vinto")
