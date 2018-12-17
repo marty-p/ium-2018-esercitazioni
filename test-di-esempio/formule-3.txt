@@ -9,6 +9,9 @@ x2 = ((ad-bc)^2(N - 1)) / mnrs
 #4  55 r  40 s  98 N
 #7  chi2 =(POTENZA(40*20-20*15;2)*94)/(55*40*60*35) #5.08
 #8  p    =distrib.chi(c7;1) #0.02
+#12 pa   =(40+0.9604)/(60+0.92)  #0.66
+#13 pc   =
+
 
 p è < 0.05 quindi possiamo dirci certi al 98% che la differenza è significativa, in quanto p è un valore molto piccolo
 l'intervallo di confidenza in questo caso bisogna calcolarlo (perché p è significativo)
