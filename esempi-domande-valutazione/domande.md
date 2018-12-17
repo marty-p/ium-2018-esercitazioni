@@ -27,12 +27,16 @@ Si tratta di sessioni di valutazione brevi da 2 minuti circa.
 Gli verranno fatte solo 10 domande inerenti all'obbiettivo in cui bisogna specificare.
 Per la risposta si avrà un range di score da 1 a 5 a forma di stella.
 
-Per l'analisi dei dati, separo le domande positive con quelle negative, dopodiché calcolo la loro media prestando attenzione ad invertire il risultato di quelle negative.
+Per l'analisi dei dati, separo le domande positive con quelle complementari negative, dopodiché calcolo la loro media prestando attenzione ad invertire il risultato di quelle negative.
+
+Se la differenza fra positive e complementari negative è minima, allora è un successo.
 
 # Domanda 2
 Si supponga di essere il gestore del sito web della Galleria degli Uffizi e di voler pubblicizzare un nuovo biglietto integrato per i più famosi monumenti della città di Firenze. Non essendo il contenuto principale da mostrare nella homepage del sito, vi rimane come opzione quella di mostrare l’avviso vicino nell’header della pagine, oppure nella barra laterale destra, accanto ai link agli altri siti dei musei.  Lo studente descriva per sommi capi come organizzerebbe una sessione di valutazione di supporto a questa decisione, quali siano le metriche importanti da considerare e come eseguire l'analisi dei dati. 
 
 # Risposta 2 (tutor)
+between subjects
+ad un gruppo di utenti mostro l'homepage con il link nell'header, negli altri quelli nella barra laterale
 
 # Risposta 2 (personale)
 
