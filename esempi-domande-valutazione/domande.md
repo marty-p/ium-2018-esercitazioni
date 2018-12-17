@@ -8,7 +8,8 @@ Si supponga di dover valutare un sistema di risposta vocale interattiva (IVR), c
 4. L'utente è riuscito a completare il task? dati binari
 5. In quanto tempo è riuscito a completare il task? dati numerici
 6. Altrimenti si divide la popolazione in due e alla prima metà prova l'operatore e la seconda l'assistente vocale (between subjects)
-7. Altrimenti la popolazione prova sia l'operatore e l'assistente vocale (within subjects)
+7. Altrimenti la popolazione prova sia l'operatore e l'assistente vocale (within subjects) se è riuscito a completare il task in 1min
+Ci sono 4 risposte possibili.
 
 
 # Risposta 1 (personale)
