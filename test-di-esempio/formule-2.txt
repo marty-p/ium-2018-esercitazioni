@@ -7,5 +7,11 @@ t=(x1-x2) / \sqrt{s1^1/n1 + s2^2/n2}
 #18  t =(b15-c15)/radq(potenza(b16;2)/f15)+(potenza(c16;2)/f16))  gdl =f15+f16-2 #1.1 21
 #20  p =distrib.t(c18;f18;2) #0.28
 #21 =1-d20 #0.72
+#22 ta =inv.t(1-0.95;f18) #2.08
 
 p è superiore a 0.05 quindi la differenza non è significativa
+
+x1-x2+- ta \sqrt{s1^1/n1 + s2^2/n2}
+
+ta = inv.t
+(51.6-49.6)+-ta \sqrt{4.7^2/11 + 4.62^2/12}
