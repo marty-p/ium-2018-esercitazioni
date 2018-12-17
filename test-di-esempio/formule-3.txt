@@ -1,1 +1,10 @@
+#binary between subject - test chi quadro
 
+x2 = ((ad-bc)^2(N - 1)) / mnrs
+   = ((40*29*29-15)
+
+
+#2  40 a  20 b  60 m
+#3  15 c  20 d  35 n
+#4  55 r  40 s  98 N
+#7  chi2
