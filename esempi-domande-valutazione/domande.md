@@ -4,7 +4,9 @@ Si supponga di dover valutare un sistema di risposta vocale interattiva (IVR), c
 # Risposta 1 (tutor)
 1. Utenti poco pratici
 2. Fare una comparazione fra questa applicazione e una versione precedente del sistema con un operatore
-3. 
+3. Un metodo di test è trovare l'efficienza tra un operatore e un assistente vocale (tramite tempo di completazione (completition rate))
+4. L'utente è riuscito a completare il task? dati binari
+5. In quanto tempo è riuscito a completare il task? dati numerici
 
 # Risposta 1 (personale)
 L'obbiettivo è quello di ottenere feedback sui servizi attivati e attivabili e sui relativi costi.
