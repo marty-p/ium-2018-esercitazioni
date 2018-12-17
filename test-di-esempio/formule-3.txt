@@ -11,4 +11,4 @@ x2 = ((ad-bc)^2(N - 1)) / mnrs
 #8  p    =distrib.chi(c7;1) #0.02
 
 p è < 0.05 quindi possiamo dirci certi al 98% che la differenza è significativa, in quanto p è un valore molto piccolo
-
+l'intervallo di confidenza in questo caso bisogna calcolarlo (perché p è significativo)
