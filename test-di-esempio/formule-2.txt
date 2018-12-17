@@ -6,3 +6,6 @@ t=(x1-x2) / \sqrt{s1^1/n1 + s2^2/n2}
 #16 Dev.Standard =dev.st(b2:b12)  =dev.st(c2:c13) n2: 12 #4.07 4.6
 #18  t =(b15-c15)/radq(potenza(b16;2)/f15)+(potenza(c16;2)/f16))  gdl =f15+f16-2 #1.1 21
 #20  p =distrib.t(c18;f18;2) #0.28
+#21 =1-d20 #0.72
+
+p è superiore a 0.05 quindi la differenza non è significativa
