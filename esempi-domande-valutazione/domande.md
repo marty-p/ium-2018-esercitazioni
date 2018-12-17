@@ -35,9 +35,9 @@ Se la differenza fra positive e complementari negative è minima, allora è un s
 Si supponga di essere il gestore del sito web della Galleria degli Uffizi e di voler pubblicizzare un nuovo biglietto integrato per i più famosi monumenti della città di Firenze. Non essendo il contenuto principale da mostrare nella homepage del sito, vi rimane come opzione quella di mostrare l’avviso vicino nell’header della pagine, oppure nella barra laterale destra, accanto ai link agli altri siti dei musei.  Lo studente descriva per sommi capi come organizzerebbe una sessione di valutazione di supporto a questa decisione, quali siano le metriche importanti da considerare e come eseguire l'analisi dei dati. 
 
 # Risposta 2 (tutor)
-between subjects
-ad un gruppo di utenti mostro l'homepage con il link nell'header, negli altri quelli nella barra laterale
-calcolare il numero di click per test
+between subjects tramite a/b testing
+ad un gruppo di utenti mostro l'homepage con il link nell'header, negli altri quelli nella barra laterale (75 utenti A, 75 utenti B)
+calcolare il numero di click per test (30 click utenti A, 20 click utenti B)
 
 # Risposta 2 (personale)
 
