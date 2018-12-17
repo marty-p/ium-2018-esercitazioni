@@ -2,10 +2,7 @@
 t=(x1-x2) / \sqrt{s1^1/n1 + s2^2/n2}
  =(51.6-49.6) / \sqrt{4.7^2/11 + 4.62^2/12}
 
-n1=11
-n2=12
-
-#15 Media =media(b2:b12) =media(c2:c13) n1: 51.6 49.6
-#16 Dev.Standard =dev.st(b2:b12)  =dev.st(c2:c13) n2: 4.07 4.6
-#18   =(b15-c15)/radq(potenza(b16;2)/f15)+(potenza(c16;2)/f16)
+#15 Media =media(b2:b12) =media(c2:c13) n1: 11 #51.6 49.6
+#16 Dev.Standard =dev.st(b2:b12)  =dev.st(c2:c13) n2: 12 #4.07 4.6
+#18   =(b15-c15)/radq(potenza(b16;2)/f15)+(potenza(c16;2)/f16))
 
