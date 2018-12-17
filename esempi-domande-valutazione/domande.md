@@ -2,6 +2,9 @@
 Si supponga di dover valutare un sistema di risposta vocale interattiva (IVR), che permetta agli utenti di una compagnia telefonica mobile di ottenere informazioni sui servizi attivati e attivabili e sui relativi costi.  Lo studente descriva per sommi capi come organizzerebbe la sessione di valutazione, quali siano le metriche importanti da considerare e come eseguire l'analisi dei dati. 
 
 # Risposta 1 (tutor)
+1. Utenti poco pratici
+2. Fare una comparazione fra questa applicazione e una versione precedente del sistema con un operatore
+3. 
 
 # Risposta 1 (personale)
 L'obbiettivo è quello di ottenere feedback sui servizi attivati e attivabili e sui relativi costi.
