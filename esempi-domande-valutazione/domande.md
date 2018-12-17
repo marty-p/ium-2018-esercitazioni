@@ -7,6 +7,9 @@ Si supponga di dover valutare un sistema di risposta vocale interattiva (IVR), c
 3. Un metodo di test è trovare l'efficienza tra un operatore e un assistente vocale (tramite tempo di completazione (completition rate))
 4. L'utente è riuscito a completare il task? dati binari
 5. In quanto tempo è riuscito a completare il task? dati numerici
+6. Altrimenti si divide la popolazione in due e alla prima metà prova l'operatore e la seconda l'assistente vocale (between subjects)
+7. Altrimenti la popolazione prova sia l'operatore e l'assistente vocale (within subjects)
+
 
 # Risposta 1 (personale)
 L'obbiettivo è quello di ottenere feedback sui servizi attivati e attivabili e sui relativi costi.
