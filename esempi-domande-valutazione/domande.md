@@ -37,6 +37,7 @@ Si supponga di essere il gestore del sito web della Galleria degli Uffizi e di v
 # Risposta 2 (tutor)
 between subjects
 ad un gruppo di utenti mostro l'homepage con il link nell'header, negli altri quelli nella barra laterale
+calcolare il numero di click per test
 
 # Risposta 2 (personale)
 
