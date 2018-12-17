@@ -11,7 +11,8 @@ x2 = ((ad-bc)^2(N - 1)) / mnrs
 #8  p    =distrib.chi(c7;1) #0.02
 #12 pa   =(40+0.9604)/(60+0.92)  #0.66
 #13 pc   =(15+0.964)/(35+1.92)   #0.43
-
+#15 Dinf =(c12-c13)-1.96*(radq(((c12*(1-c12))/60)+((c13*(1-c13)/35))
+#16 Dsup =(c12+c13)
 
 p è < 0.05 quindi possiamo dirci certi al 98% che la differenza è significativa, in quanto p è un valore molto piccolo
 l'intervallo di confidenza in questo caso bisogna calcolarlo (perché p è significativo)
